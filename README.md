@@ -8,20 +8,23 @@ I'm passionate about building scalable and efficient backend systems that power 
 
 ## Technologies I Work With 💻
 
-- Python
+- Python3
 - Django
 - Flask
 - SQL (MySQL, PostgreSQL, SQLite)
 - Redis
 - Celery
 - RESTful APIs
+- Pytest
+- Unitest
+- Aiogram 
 - Docker
 - Git
 - HTML, CSS and Js - a little bit
 
 ## Get in Touch 📫
 
-You can reach out to me via [email](mishin23042002@gmail.com) or connect with me on [telegram](https://t.me/AfanasyLoh). I'm always open to discussing backend development, collaborating on projects, or exploring new opportunities!
+You can reach out to me via ```email``` - mishin23042002@gmail.com or connect with me on [telegram](https://t.me/AfanasyLoh). I'm always open to discussing backend development, collaborating on projects, or exploring new opportunities!
 
 ## My Projects 🚀
 
