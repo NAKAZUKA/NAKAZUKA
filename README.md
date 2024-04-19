@@ -1,4 +1,5 @@
-# Hey there! 👋 I'm Andrey, a Backend Python Developer
+# Hey there! 👋 
+# I'm Andrey, a Backend Python Developer
 
 Welcome to my GitHub profile! I specialize in backend development using Python and related technologies.
 
